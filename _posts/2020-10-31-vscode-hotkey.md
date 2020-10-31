@@ -4,7 +4,7 @@ layout: post
 categories: vs code
 ---
 
-#VS Code 단축키
+## VS Code 단축키
 
 
 VS Code를 사용하다 보면 **단축키** 가 유용합니다. 
